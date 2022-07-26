@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PetApp</string>
+
+    <string name="splash_name">Pet App</string>
+    <string name="powered_by">powered by</string>
+    <string name="icon_android">Android</string>
+    <string name="icon_golang">Golang</string>
+
+    <string name="pets_bar">Your pets</string>
+    <string name="species">Species: %1$s</string>
+    <string name="age">Age: %1$d</string>
+
+    <string name="save_pet">Save pet</string>
+
+    <string name="no_data">Looks like you don\'t have any pets, click on the plus to add one</string>
+    <string name="add_btn">Create pet</string>
+
+    <string name="error_empty_pet_name">Error pet name can not be empty</string>
+    <string name="error_empty_pet_age">Error pet age can not be empty</string>
+
+    <string name="enter_name">Enter pet name</string>
+    <string name="enter_age">Enter pet age</string>
+    <string name="enter_species">Enter pet species</string>
+    <string name="enter_food">Enter pet food</string>
+    <string name="enter_description">Enter pet description</string>
+    <string name="enter_photo">Enter pet photo</string>
+    
+    <string name="delete_pet">Delete this pet?</string>
+    <string name="delete_info">Do you want to remove this pet?\nThis operation cannot be undone</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleted_success">Pet removed successfully</string>
+</resources>
